@@ -8,7 +8,6 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@prefix sdmx-dimension: <http://purl.org/linked-data/sdmx/2009/dimension#> .
 @base <http://www.biocjsong.com> .
 
 <http://www.biocjsong.com> rdf:type owl:Ontology .
